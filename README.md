@@ -1,13 +1,13 @@
   Hi, I'm **fakiha**!
 
-I'm a **14-year-old aspiring Machine Learning Engineer**.  
+I'm a **14-year-old**.  
 Currently learning **Python**, **HTML/CSS**, and how to use **GitHub**.
 
 ---
 
 ##  What I'm Working On
 - Learning Python basics
-- Building fun mini projects like a calculator and number guessing game
+- Building fun mini projects like a calculator and an age checker
 - Starting web development with HTML & CSS
 
 ---
