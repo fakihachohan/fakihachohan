@@ -1,6 +1,6 @@
   Hi, I'm **fakiha**!
 
-I'm a **14-year-old**.  
+I'm **14-years-old**.  
 Currently learning **Python**, **HTML/CSS**, and how to use **GitHub**.
 
 ---
